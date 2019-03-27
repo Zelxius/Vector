@@ -1,0 +1,10 @@
+D:\Calculadora\Vectores\Vectores\bin\Debug\Vectores.exe.config
+D:\Calculadora\Vectores\Vectores\bin\Debug\Vectores.exe
+D:\Calculadora\Vectores\Vectores\bin\Debug\Vectores.pdb
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.csprojAssemblyReference.cache
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.cache
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.exe
+D:\Calculadora\Vectores\Vectores\obj\Debug\Vectores.pdb
