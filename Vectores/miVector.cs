@@ -62,16 +62,7 @@ namespace Vectores
         /// </summary>
         public void Invertir()
         {
-            int[] T = new int[vec.Length];
-            for (int i = 0; i <= vec.Length - 1; i++)
-            {
-                T[i] = vec[i];
-            }
-            for (int i = 0, j = vec.Length - 1; i <= vec.Length - 1; i++,j--)//LOL el ciclo for mas largo de mi vida xD
-            {
-                //vec inicia en 0 y T en el último índice
-                vec[i] = vec[j];
-            }
+            Array.Reverse(vec);
         }
     }
 }
