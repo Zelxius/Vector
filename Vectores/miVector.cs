@@ -58,11 +58,17 @@ namespace Vectores
         }
 
         /// <summary>
-        /// Con el primer ciclo se crea un clon temporal del vector inicial, en el segundo ciclo al vector original le asignas el valor del vector clon en forma descendente (comenzando por el último índice)
+        /// El temporal adquiere el valor del actual índice, el actual adquiere el inverso del actual y el inverso adquiere el valor del temporal
         /// </summary>
         public void Invertir()
         {
-            Array.Reverse(vec);
+            int T;
+            for (int i = 0, j = vec.Length - 1; i <= (vec.Length - 1) / 2; i++,j--)
+            {
+                T = vec[i];
+                vec[i] = vec[j];
+                vec[j] = T;
+            }
         }
     }
 }
